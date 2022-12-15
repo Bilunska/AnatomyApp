@@ -1,0 +1,46 @@
+# File created by ZBrush
+# ToolType: PolyMesh3D
+# www.zbrush.com
+
+newmtl defaultMat
+Kd 0.7 0.7 0.7
+
+newmtl mat1
+map_Kd Round 5Tex1.bmp
+
+newmtl mat4
+map_Kd Round 5Tex4.bmp
+
+newmtl mat5
+map_Kd Round 5Tex5.bmp
+
+newmtl mat6
+map_Kd Round 5Tex6.bmp
+
+newmtl mat7
+map_Kd Round 5Tex7.bmp
+
+newmtl mat8
+map_Kd Round 5Tex8.bmp
+
+newmtl mat9
+map_Kd Round 5Tex9.bmp
+
+newmtl mat10
+map_Kd Round 5Tex10.bmp
+
+newmtl mat11
+map_Kd Round 5Tex11.bmp
+
+newmtl mat12
+map_Kd Round 5Tex12.bmp
+
+newmtl mat13
+map_Kd Round 5Tex13.bmp
+
+newmtl mat14
+map_Kd Round 5Tex14.bmp
+
+newmtl mat15
+map_Kd Round 5Tex15.bmp
+

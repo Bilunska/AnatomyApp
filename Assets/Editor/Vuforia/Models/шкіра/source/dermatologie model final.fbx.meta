@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: 5c2e7dcd4c7fbdf498bcbdd084de1880
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Big
+    100002: //RootNode
+    100004: Epidermis
+    100006: Epischdermis
+    100008: Extract1
+    100010: Extract3_1
+    100012: Extract6
+    100014: Extract8
+    100016: PM3D_Cube3D2
+    100018: PM3D_Cube3D5_945
+    100020: PM3D_Cube3D5_953
+    100022: PM3D_Sphere3D2_2
+    100024: PM3D_Sphere3D2_343
+    100026: Skin_ZSphere29_11
+    100028: Skin_ZSphere6
+    100030: Skin_ZSphere7
+    100032: Skin_ZSphere_4
+    400000: Big
+    400002: //RootNode
+    400004: Epidermis
+    400006: Epischdermis
+    400008: Extract1
+    400010: Extract3_1
+    400012: Extract6
+    400014: Extract8
+    400016: PM3D_Cube3D2
+    400018: PM3D_Cube3D5_945
+    400020: PM3D_Cube3D5_953
+    400022: PM3D_Sphere3D2_2
+    400024: PM3D_Sphere3D2_343
+    400026: Skin_ZSphere29_11
+    400028: Skin_ZSphere6
+    400030: Skin_ZSphere7
+    400032: Skin_ZSphere_4
+    2100000: Skin_ZSphere_4
+    2100002: Extract1
+    2100004: Extract3_1
+    2100006: Extract8
+    2100008: PM3D_Cube3D5_945
+    2100010: PM3D_Cube3D5_953
+    2100012: Extract6
+    2100014: PM3D_Sphere3D2_2
+    2100016: Big
+    2100018: PM3D_Cube3D2
+    2100020: Skin_ZSphere6
+    2100022: Skin_ZSphere7
+    2100024: PM3D_Sphere3D2_343
+    2100026: Epidermis
+    2100028: Epischdermis
+    2100030: Skin_ZSphere29_11
+    2300000: Big
+    2300002: Epidermis
+    2300004: Epischdermis
+    2300006: Extract1
+    2300008: Extract3_1
+    2300010: Extract6
+    2300012: Extract8
+    2300014: PM3D_Cube3D2
+    2300016: PM3D_Cube3D5_945
+    2300018: PM3D_Cube3D5_953
+    2300020: PM3D_Sphere3D2_2
+    2300022: PM3D_Sphere3D2_343
+    2300024: Skin_ZSphere29_11
+    2300026: Skin_ZSphere6
+    2300028: Skin_ZSphere7
+    2300030: Skin_ZSphere_4
+    3300000: Big
+    3300002: Epidermis
+    3300004: Epischdermis
+    3300006: Extract1
+    3300008: Extract3_1
+    3300010: Extract6
+    3300012: Extract8
+    3300014: PM3D_Cube3D2
+    3300016: PM3D_Cube3D5_945
+    3300018: PM3D_Cube3D5_953
+    3300020: PM3D_Sphere3D2_2
+    3300022: PM3D_Sphere3D2_343
+    3300024: Skin_ZSphere29_11
+    3300026: Skin_ZSphere6
+    3300028: Skin_ZSphere7
+    3300030: Skin_ZSphere_4
+    4300000: Skin_ZSphere_4
+    4300002: Extract1
+    4300004: Extract3_1
+    4300006: Extract8
+    4300008: PM3D_Cube3D5_945
+    4300010: PM3D_Cube3D5_953
+    4300012: Extract6
+    4300014: PM3D_Sphere3D2_2
+    4300016: Big
+    4300018: PM3D_Cube3D2
+    4300020: Skin_ZSphere6
+    4300022: Skin_ZSphere7
+    4300024: PM3D_Sphere3D2_343
+    4300026: Epidermis
+    4300028: Epischdermis
+    4300030: Skin_ZSphere29_11
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Big_TXTR
+    second: {fileID: 2800000, guid: 2ed9b4702c35c244a9adf4e745cdfc7e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Extract1_TXTR
+    second: {fileID: 2800000, guid: 7d782a80a38601640bec327fc09b68b9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Extract3_1_TXTR
+    second: {fileID: 2800000, guid: 9586574034df5dd40b17ba895df13b1b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Extract8_TXTR
+    second: {fileID: 2800000, guid: fe9e4f4db5beddc4fa18d6f542985b59, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PM3D_Cube3D5_945_TXTR
+    second: {fileID: 2800000, guid: e9ec2f36d17210440a58da806736b445, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PM3D_Sphere3D2_2_TXTR
+    second: {fileID: 2800000, guid: 95009c4646c149447b5cf6941f9579f1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Skin_ZSphere7_TXTR
+    second: {fileID: 2800000, guid: 8842c814277307b4f85cc73a67296d92, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Skin_ZSphere_4_TXTR
+    second: {fileID: 2800000, guid: 875ae049c56db40408340cd596a5ab46, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

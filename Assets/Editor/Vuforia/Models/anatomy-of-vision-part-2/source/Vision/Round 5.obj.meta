@@ -1,0 +1,259 @@
+fileFormatVersion: 2
+guid: 17ba975cb9e3f7d42b5ee97f0e8f2159
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: subtool1
+    100004: subtool10
+    100006: subtool11
+    100008: subtool12
+    100010: subtool13
+    100012: subtool14
+    100014: subtool15
+    100016: subtool2
+    100018: subtool3
+    100020: subtool4
+    100022: subtool5
+    100024: subtool6
+    100026: subtool7
+    100028: subtool8
+    100030: subtool9
+    400000: //RootNode
+    400002: subtool1
+    400004: subtool10
+    400006: subtool11
+    400008: subtool12
+    400010: subtool13
+    400012: subtool14
+    400014: subtool15
+    400016: subtool2
+    400018: subtool3
+    400020: subtool4
+    400022: subtool5
+    400024: subtool6
+    400026: subtool7
+    400028: subtool8
+    400030: subtool9
+    2100000: subtool1Mat
+    2100002: subtool10Mat
+    2100004: subtool11Mat
+    2100006: subtool12Mat
+    2100008: subtool13Mat
+    2100010: subtool14Mat
+    2100012: subtool15Mat
+    2100014: subtool2Mat
+    2100016: subtool3Mat
+    2100018: subtool4Mat
+    2100020: subtool5Mat
+    2100022: subtool6Mat
+    2100024: subtool7Mat
+    2100026: subtool8Mat
+    2100028: subtool9Mat
+    2300000: subtool1
+    2300002: subtool10
+    2300004: subtool11
+    2300006: subtool12
+    2300008: subtool13
+    2300010: subtool14
+    2300012: subtool15
+    2300014: subtool2
+    2300016: subtool3
+    2300018: subtool4
+    2300020: subtool5
+    2300022: subtool6
+    2300024: subtool7
+    2300026: subtool8
+    2300028: subtool9
+    3300000: subtool1
+    3300002: subtool10
+    3300004: subtool11
+    3300006: subtool12
+    3300008: subtool13
+    3300010: subtool14
+    3300012: subtool15
+    3300014: subtool2
+    3300016: subtool3
+    3300018: subtool4
+    3300020: subtool5
+    3300022: subtool6
+    3300024: subtool7
+    3300026: subtool8
+    3300028: subtool9
+    4300000: subtool1
+    4300002: subtool10
+    4300004: subtool11
+    4300006: subtool12
+    4300008: subtool13
+    4300010: subtool14
+    4300012: subtool15
+    4300014: subtool2
+    4300016: subtool3
+    4300018: subtool4
+    4300020: subtool5
+    4300022: subtool6
+    4300024: subtool7
+    4300026: subtool8
+    4300028: subtool9
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: subtool10Mat
+    second: {fileID: 2100000, guid: c8203df6827801a428763471398a75f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: subtool11Mat
+    second: {fileID: 2100000, guid: e49eae5111b9ba44e801f41e4bb89ede, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: subtool12Mat
+    second: {fileID: 2100000, guid: 54b1be84dddd0bf4ca61efb7b156d6f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: subtool13Mat
+    second: {fileID: 2100000, guid: 2e905b1a437392f46bd86505ac0dc3db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: subtool14Mat
+    second: {fileID: 2100000, guid: e6187e70c47b1134288621d3658e3d51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: subtool15Mat
+    second: {fileID: 2100000, guid: 9baf758214988d34cae1b489f7146f13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: subtool1Mat
+    second: {fileID: 2100000, guid: a2e057d9dd756bd4a974285e21e63d87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: subtool2Mat
+    second: {fileID: 2100000, guid: dda338f266eeaf5418eb647d947b2122, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: subtool3Mat
+    second: {fileID: 2100000, guid: d05ddc55565ea984f9f228ec645a84ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: subtool4Mat
+    second: {fileID: 2100000, guid: 98d793cd391668f49a9b19c998c606ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: subtool5Mat
+    second: {fileID: 2100000, guid: 95a77c7738d813843bba763945683cff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: subtool6Mat
+    second: {fileID: 2100000, guid: 5280dc31f3910e34e8130ec1675cc23e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: subtool7Mat
+    second: {fileID: 2100000, guid: eb92ea5775389534cb25f49757d277ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: subtool8Mat
+    second: {fileID: 2100000, guid: e5cdad3d61a2e0c42862121afe0c3309, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: subtool9Mat
+    second: {fileID: 2100000, guid: dd25593d1d1e59847aa2b6528063bd7c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
